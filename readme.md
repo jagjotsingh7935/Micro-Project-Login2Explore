@@ -2,7 +2,7 @@ Micro Project Work
 
 contact email : jagjotsingh2287@gmail.com
 
-LINK - https://aniket-dey2000.github.io/JsonPOwerDB.github.io/
+LINK - https://jagjotsingh7935.github.io/Micro-Project-Login2Explore/
 
 Title of the Project : Student Enrollment Form
 
