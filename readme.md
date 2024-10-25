@@ -16,19 +16,6 @@ Additional you can have: JsonPowerDB is a Real-time, High Performance, Lightweig
 
 Table of contents: Roll-No Student Full Name Class Birth-Date Address Enrollment-Date SAVE - INSERT CHANGE - UPDATE DELETE RESET
 
-Illustrations image
-
-image
-
-image
-
-image
-
-image
-
-image
-
-image
 
 Scope of functionalities :
 
